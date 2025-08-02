@@ -1,7 +1,7 @@
 import './App.css'
 import Carousel from './components/Carousel';
 import Header from './components/Header';
-import Hero from './components/hero';
+import Hero from './components/Hero';
 import Video from './components/Video'
 import ExampleComponent from './Ex';
 import './index.css';
